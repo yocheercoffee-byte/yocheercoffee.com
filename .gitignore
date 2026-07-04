@@ -1,0 +1,17 @@
+# 設計檔案
+*.psd
+*.xd
+*.ai
+
+# 構建檔案
+node_modules/
+dist/
+build/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 編輯器
+.vscode/
+.idea/
